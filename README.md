@@ -49,7 +49,7 @@ I write about AI, web development, and tech tutorials at [LazyHuman’s Tech Cor
 - **LinkedIn:** [kunalgupta25](https://www.linkedin.com/in/kunalgupta25)
 - **Location:** Vadodara, Gujarat, India
 
-[![ko-fi](https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_beige.png)](https://ko-fi.com/lazy_human)
+<a href='https://ko-fi.com/Y8Y6IPAOF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ---
 
