@@ -1,80 +1,55 @@
 # 👋 Hello, I'm Kunal Gupta
 
-A passionate Computer Science student and aspiring Software Engineer specializing in Artificial Intelligence, Web Development, and innovative digital solutions. Welcome to my GitHub profile!
+A Computer Science student and aspiring Software Engineer specializing in Artificial Intelligence and Web Development.  
+[👍 Like my Portfolio](https://lazyhideout.tech)
 
 ---
 
 ## 🚀 About Me
 
-I'm an Engineering student at Parul University, majoring in Computer Science with a specialization in AI. My expertise lies in Python development, building AI-driven applications, and full-stack web development (Flask, Django, Next.js). I have hands-on experience with:
-
-- Developing web apps and AI agents
-- Building basic LLMs (Large Language Models)
-- Working with Data Structures and Algorithms (DSA)
-- Designing scalable, user-focused solutions
-
-Beyond coding, I've participated in national-level hackathons, managed large-scale tech events, and enjoy expressing creativity through sketching. I believe in continuous learning and thrive on new challenges, aiming to leverage my technical and creative skills to drive innovation and create meaningful impact in tech[1][2].
+- B.Tech (CSE - AI) student at Parul University, Vadodara, Gujarat
+- Focused on AI, Python, and full-stack web development
+- Hackathon participant & event organizer
+- Always learning, building, and collaborating!
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills
 
-- **Languages:** Python, TypeScript, HTML, CSS, JavaScript
+- **Languages:** Python, TypeScript, JavaScript, HTML, CSS
 - **Frameworks:** Flask, Django, Next.js, Streamlit
-- **AI & Data:** AI Agents, LLMs, Smolagents, DSA
-- **Tools:** Git, GitHub, VS Code, Streamlit
-- **Other:** Web Design, Discord Auth, Event Management
-
----
-
-## 🎓 Education
-
-- **Bachelor of Technology (B.Tech)**
-  - *Parul University, Vadodara, Gujarat*
-  - Major: Computer Science (AI Specialization)
-  - CGPA: 7.8 (2023 - Present)
-
-- **Class 12th**
-  - *Delhi Public School*
-  - Science & Maths, 69.2% (2022 - 2023)[1]
+- **AI & Data:** LLMs, AI Agents, Smolagents, DSA
+- **Tools:** Git, VS Code, GitHub
 
 ---
 
 ## 🏆 Projects
 
-Here are some of my highlighted projects:
-
-| Project         | Description                                                                 | Tech Stack         |
-|-----------------|-----------------------------------------------------------------------------|--------------------|
-| **Bytefolio**   | My personal portfolio made in Next.js                                       | TypeScript, Next.js|
-| **MAL-Agent**   | Streamlit-powered AI chatbot for MyAnimeList using Smolagents               | Python, Streamlit  |
-| **Cosmeta**     | E-Novel platform with admin panel and Discord Auth                          | Flask, HTML        |
-| **Chat-with-PDF**| PDF chat AI agent using Smolagents Framework                              | Python             |
-| **LeafLearn**   | Hackathon project for 2F2H                                                 | HTML               |[2]
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [MAL-Agent](https://github.com/KunalGupta25/MAL-Agent) | Streamlit-powered AI chatbot for MyAnimeList | Python, Streamlit |
+| [Cosmeta](https://github.com/KunalGupta25/Cosmeta) | E-Novel platform with admin panel & Discord Auth | Flask, HTML |
+| [Chat-with-PDF](https://github.com/KunalGupta25/Chat-with-PDF) | PDF chat AI agent using Smolagents | Python |
+| [LeafLearn](https://github.com/KunalGupta25/LeafLearn) | Hackathon project for 2F2H | HTML |
 
 ---
 
-## 🏅 Certifications
+## ✍️ My Blogs
 
-- Participation in national-level hackathons
-- Event management for 500+ participants as part of college technical team
-- [Add your certifications here as you earn them!][1]
+I write about AI, web development, and tech tutorials at [LazyHuman’s Tech Corner on Ko-fi](https://ko-fi.com/lazy_human/posts).
+
+> 🚀 Dive into no-nonsense tutorials, AI agent guides, Flask app walkthroughs, and more!
 
 ---
 
-## 📫 Get In Touch
+## 📫 Contact
 
-I'm always open to connecting with fellow developers, designers, and potential employers. Whether you want to discuss projects, share ideas, or just say hi, feel free to reach out!
-
-- **Email:** kkunalggupta200@gmail.com | 2303051240111@paruluniversity.ac.in
-- **Website:** [lazyhideout.tech](http://lazyhideout.tech/)
-- **LinkedIn:** [in/kunalgupta25](https://www.linkedin.com/in/kunalgupta25)
-- **Buy me a coffee:** [ko-fo.com/lazy_human](https://ko-fo.com/lazy_human)
+- **Email:** kkunalggupta200@gmail.com
+- **Website:** [lazyhideout.tech](https://lazyhideout.tech)
+- **LinkedIn:** [kunalgupta25](https://www.linkedin.com/in/kunalgupta25)
 - **Location:** Vadodara, Gujarat, India
 
----
-
-> "Just an uprising coder trying to learn something new every day." 😄
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/lazy_human)
 
 ---
 
