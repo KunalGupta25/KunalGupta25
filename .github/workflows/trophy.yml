@@ -25,8 +25,7 @@ jobs:
           file: dist/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: darkhub
-          max-cols: 6
-          max-rows: 2
+          max-rows: 1
           margin-width: 8
           margin-height: 8
           no-background: false
