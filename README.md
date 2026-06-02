@@ -31,7 +31,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/KunalGupta25/KunalGupta25/snake-output/snake.svg" alt="Snake animation" />
+<img align=center src="https://raw.githubusercontent.com/KunalGupta25/KunalGupta25/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -124,8 +124,8 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=KunalGupta25&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/KunalGupta25/KunalGupta25/stats-output/stats.svg" height="50" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=KunalGupta25&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/KunalGupta25/KunalGupta25/stats-output/stats.svg" height="200" alt="stats graph"  />
 </div>
 
 ###
@@ -134,8 +134,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KunalGupta25/KunalGupta25/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+<div align="left">
+  <img src="https://raw.githubusercontent.com/KunalGupta25/KunalGupta25/trophy-output/trophy.svg" height="200" alt="trophy graph"  />
 </div>
 
 ###
