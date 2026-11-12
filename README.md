@@ -16,7 +16,7 @@
   <a href="mailto:kunalgupta250119@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/kunalgupta25/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/KunalGupta25"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://kunalgupta25.github.io"><img src="https://img.shields.io/badge/Portfolio-Explore-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://kunalgupta25.me"><img src="https://img.shields.io/badge/Portfolio-Explore-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=KunalGupta25&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
@@ -82,10 +82,10 @@ A few projects that reflect what I like building. Check each repository for its 
       <a href="https://noteroot-ai.vercel.app">Live preview ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🍽️ <a href="https://suchiqr.app">SuchiQR</a></h3>
+      <h3>🍽️ <a href="https://suchi-qr.vercel.app">SuchiQR</a></h3>
       <p>A QR-based digital menu platform for restaurants, with menu management and a digital dining experience.</p>
       <p><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /></p>
-      <a href="https://github.com/KunalGupta25/SuchiQR">Repository ↗</a>
+      <a href="https://suchi-qr.vercel.app">Live preview ↗</a>
     </td>
   </tr>
   <tr>
@@ -149,7 +149,7 @@ A few projects that reflect what I like building. Check each repository for its 
   <a href="https://www.linkedin.com/in/kunalgupta25/"><img src="https://img.shields.io/badge/LinkedIn-Kunal%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://dev.to/kunalgupta25"><img src="https://img.shields.io/badge/DEV.to-Follow-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community" /></a>
   <a href="https://www.hackerrank.com/profile/kunalgupta25"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://kunalgupta25.github.io"><img src="https://img.shields.io/badge/Portfolio-Website-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
+  <a href="https://kunalgupta25.me"><img src="https://img.shields.io/badge/Portfolio-Website-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
   <a href="mailto:kunalgupta250119@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
