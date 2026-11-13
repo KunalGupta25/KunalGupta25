@@ -41,29 +41,17 @@ Hey! I'm **Kunal**, a Computer Science student and developer interested in build
 
 <div align="center">
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" alt="Python, Java, JavaScript, TypeScript, HTML and CSS" />
-
-**Frontend & Backend**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind" alt="React, Next.js, Node.js, Express, FastAPI and Tailwind CSS" />
-
-**AI / Data / Automation**  
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mongodb,postgres,mysql,supabase" alt="TensorFlow, PyTorch, MongoDB, PostgreSQL, MySQL and Supabase" />
-
-**Tools & Platforms**  
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,cloudflare,figma" alt="Git, GitHub, Docker, Linux, AWS, Vercel, Cloudflare and Figma" />
+<img src="./assets/tech-stack.svg" width="100%" alt="Kunal's custom terminal-style tech stack" />
 
 </div>
 
 <details>
-<summary><b>More about what I work with</b></summary>
-<br/>
+<summary><b>Stack details</b></summary>
 
-- **AI engineering:** LLM integration, prompt design, RAG workflows, vector search, AI agents, document Q&A
-- **Web engineering:** React, Next.js, TypeScript, Node.js, REST APIs, FastAPI
-- **Data & infrastructure:** MongoDB, MySQL, PostgreSQL, Supabase, Cloudflare, Vercel
-- **Automation:** n8n, API integrations, workflow automation
-- **Currently exploring:** production AI systems, MCP, agentic workflows, and reliable deployment patterns
+- **Languages:** Python, Java, JavaScript, TypeScript, HTML, CSS
+- **Frontend & backend:** React, Next.js, Node.js, Express, FastAPI, Tailwind CSS
+- **AI & data:** LLMs, RAG, AI agents, TensorFlow, PyTorch, MongoDB, Supabase
+- **Tools:** Git, Docker, Linux, AWS, Vercel, Cloudflare, n8n
 
 </details>
 
@@ -71,48 +59,34 @@ Hey! I'm **Kunal**, a Computer Science student and developer interested in build
 
 ## 🚀 Featured Projects
 
-A few projects that reflect what I like building. Check each repository for its current status, setup instructions, and implementation details.
+<div align="center">
+
+<img src="./assets/featured-repos.svg" width="100%" alt="Custom featured repositories widget" />
+
+</div>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/KunalGupta25/NoterootAI">NoteRoot AI</a></h3>
       <p>An AI-enhanced knowledge management project exploring searchable notes, connected knowledge, and AI-assisted workflows.</p>
-      <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/AI-RAG-7c3aed?style=flat" alt="AI and RAG" /></p>
       <a href="https://noteroot-ai.vercel.app">Live preview ↗</a>
     </td>
     <td width="50%" valign="top">
       <h3>🍽️ <a href="https://suchi-qr.vercel.app">SuchiQR</a></h3>
       <p>A QR-based digital menu platform for restaurants, with menu management and a digital dining experience.</p>
-      <p><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /></p>
       <a href="https://suchi-qr.vercel.app">Live preview ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🗂️ <a href="https://github.com/KunalGupta25/Bytefolio">Bytefolio</a></h3>
-      <p>A portfolio platform built with Next.js, featuring content management and a customizable developer portfolio.</p>
-      <p><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></p>
+      <p>A customizable developer portfolio platform built with Next.js.</p>
       <a href="https://github.com/KunalGupta25/Bytefolio">Repository ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📄 <a href="https://github.com/KunalGupta25/chat-with-pdf">Chat with PDF</a></h3>
-      <p>A document Q&A assistant that lets users upload PDFs and ask questions using an LLM-powered workflow.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white" alt="Gradio" /></p>
-      <a href="https://huggingface.co/spaces/LazyHuman/pdf-chat">Try on Hugging Face ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/KunalGupta25/MAL-Agent">MAL Agent</a></h3>
-      <p>A conversational assistant for exploring and managing a MyAnimeList collection, with recommendations and search.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Agents-7c3aed?style=flat" alt="AI agents" /></p>
-      <a href="https://github.com/KunalGupta25/MAL-Agent">Repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
       <h3>🧑‍💻 <a href="https://github.com/KunalGupta25/MargHire">MargHire</a></h3>
-      <p>An open-source tool in progress to help Indian IT freshers tailor resumes and track job applications.</p>
-      <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/AI%20Workflows-7c3aed?style=flat" alt="AI workflows" /></p>
+      <p>A fresher-focused tool in progress for resume tailoring and job application tracking.</p>
       <a href="https://github.com/KunalGupta25/MargHire">Repository ↗</a>
     </td>
   </tr>
