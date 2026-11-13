@@ -1,0 +1,23 @@
+name: Refresh profile widgets
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * *'
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+      - name: Check profile widget assets
+        run: |
+          test -s assets/tech-stack.svg
+          test -s assets/featured-repos.svg
+          echo "Both custom SVG widgets are present."
