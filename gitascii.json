@@ -2,18 +2,11 @@
   "username": "KunalGupta25",
   "widgets": [
     {
-      "instanceId": "widget_1794502409458_0",
-      "widgetId": "asciiprofile-portrait",
-      "position": {
-        "x": 0,
-        "y": 100
-      },
       "size": {
         "width": 360,
         "height": 336
       },
       "config": {
-        "accentColor": "#ffa657",
         "cols": 150,
         "rows": 75,
         "asciiText": [
@@ -93,6 +86,9 @@
           "                                       ._<c?)(J?c+>;^^^^^^,^^^^^^^^^^^^^^^^^^^^^^^^^^^^^;><>;^^^^;>+++<!ccr;'`                                        ",
           "                                                `._=><<<<+<<<<<+<+<++<++<++++++++++++<++<+<+<+<<;^:``                                                 "
         ],
+        "showTitle": false,
+        "hideBorder": true,
+        "accentColor": "#ffa657",
         "asciiColors": [
           [
             "#000000",
@@ -11495,96 +11491,216 @@
             "#000000"
           ]
         ],
-        "hideBorder": true,
-        "hideDecorations": true,
-        "showTitle": false
+        "hideDecorations": true
       },
       "locked": false,
+      "zIndex": 1,
       "visible": true,
-      "zIndex": 1
-    },
-    {
-      "instanceId": "widget_1794502409458_1",
-      "widgetId": "asciiprofile-info",
       "position": {
-        "x": 350,
+        "x": 0,
         "y": 100
       },
+      "widgetId": "asciiprofile-portrait",
+      "instanceId": "widget_1794502409458_0"
+    },
+    {
       "size": {
         "width": 440,
         "height": 336
       },
       "config": {
-        "accentColor": "#ffa657"
+        "accentColor": "#ffa657",
+        "staticMode": false
       },
       "locked": false,
+      "zIndex": 2,
       "visible": true,
-      "zIndex": 2
+      "position": {
+        "x": 350,
+        "y": 100
+      },
+      "widgetId": "asciiprofile-info",
+      "instanceId": "widget_1794502409458_1"
     },
     {
-      "instanceId": "widget_c6672481-84d1-49ba-bab0-d94a2c80f8d8",
-      "widgetId": "header",
-      "position": {
-        "x": 0,
-        "y": 0
-      },
       "size": {
         "width": 800,
         "height": 90
       },
       "config": {
+        "showTitle": false,
         "hideBorder": true,
-        "hideDecorations": true,
-        "showTitle": false
+        "hideDecorations": true
       },
       "locked": false,
+      "zIndex": 4,
       "visible": true,
-      "zIndex": 4
-    },
-    {
-      "instanceId": "widget_996a7b63-65f2-479f-866b-277eecce1106",
-      "widgetId": "footer",
       "position": {
         "x": 0,
-        "y": 1352
+        "y": 0
       },
-      "size": {
-        "width": 800,
-        "height": 50
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 6
+      "widgetId": "header",
+      "instanceId": "widget_c6672481-84d1-49ba-bab0-d94a2c80f8d8"
     },
     {
-      "instanceId": "widget_1925d5b0-6bfc-4797-8458-99d962ce0d14",
-      "widgetId": "surveillance-telemetry",
-      "position": {
-        "x": 10,
-        "y": 924
-      },
       "size": {
-        "width": 780,
+        "width": 728,
         "height": 420
       },
       "config": {
         "accentColor": "#ffa657",
-        "customTitle": "Terminal Telemetry"
+        "customTitle": "Terminal Telemetry",
+        "animationType": "fade-in",
+        "animationPreviewKey": 2
+      },
+      "locked": false,
+      "zIndex": 8,
+      "visible": true,
+      "position": {
+        "x": 39,
+        "y": 1243
+      },
+      "widgetId": "surveillance-telemetry",
+      "instanceId": "widget_1925d5b0-6bfc-4797-8458-99d962ce0d14"
+    },
+    {
+      "instanceId": "widget_abd356fb-a466-4c3a-82cb-0cff83c4b8fb",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 35,
+        "y": 886
+      },
+      "size": {
+        "width": 736,
+        "height": 91
+      },
+      "config": {
+        "selectedTechs": [
+          "vscode",
+          "postman",
+          "github",
+          "figma",
+          "notion"
+        ],
+        "customTitle": "[ TOOLS ]",
+        "perLine": 8,
+        "hideBorder": true,
+        "animationType": "slide-up",
+        "animationPreviewKey": 2
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_6a16ad70-2b1b-4ccd-8ebe-5f420e0e113a",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 31,
+        "y": 994
+      },
+      "size": {
+        "width": 736,
+        "height": 95
+      },
+      "config": {
+        "selectedTechs": [
+          "html",
+          "css",
+          "js",
+          "ts",
+          "react",
+          "nextjs",
+          "tailwind"
+        ],
+        "hideBorder": true,
+        "customTitle": "[ FRONTEND ]",
+        "animationType": "slide-up",
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
       "zIndex": 8
     },
     {
-      "instanceId": "widget_b7aa3279-7854-4d00-8524-e63c3d0f403d",
-      "widgetId": "social-media",
+      "instanceId": "widget_51b11a1c-5a69-4318-933a-b01657d6f2b1",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
       "position": {
-        "x": 0,
-        "y": 452
+        "x": 29,
+        "y": 1109
       },
       "size": {
-        "width": 800,
+        "width": 731,
+        "height": 102
+      },
+      "config": {
+        "selectedTechs": [
+          "nodejs",
+          "ts",
+          "express",
+          "postgres",
+          "mongodb",
+          "docker",
+          "redis",
+          "flask",
+          "fastapi",
+          "django",
+          "mysql",
+          "supabase",
+          "sqlite"
+        ],
+        "perLine": 14,
+        "customTitle": "[ BACKEND ]",
+        "hideBorder": true,
+        "animationType": "slide-up",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 9
+    },
+    {
+      "instanceId": "widget_97f15af3-998b-4989-9b13-07a06feed078",
+      "widgetId": "repositories",
+      "name": "Repositories Widget",
+      "position": {
+        "x": 29,
+        "y": 619
+      },
+      "size": {
+        "width": 742,
+        "height": 248
+      },
+      "config": {
+        "repoCardHeight": 52,
+        "repoViewMode": "grid",
+        "maxRepos": 4,
+        "repoSortBy": "updated",
+        "customTitle": "Recen",
+        "selectedRepos": [
+          "NoteRootAI-KMS",
+          "MargHire",
+          "plexi-Streamlit",
+          "dsh-login-gateway"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 10
+    },
+    {
+      "instanceId": "widget_e344ed85-aeef-4c8f-a914-a2ed43b2c73a",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 39,
+        "y": 1695
+      },
+      "size": {
+        "width": 736,
         "height": 120
       },
       "config": {
@@ -11595,28 +11711,51 @@
           "email",
           "website"
         ],
-        "hideBorder": false,
-        "hideDecorations": true
+        "socialUrls": {
+          "github": "https://github.com/KunalGupta25",
+          "linkedin": "https://www.linkedin.com/in/kunalgupta25/",
+          "website": "https://ko-fo.com/lazy_human",
+          "email": "mailto:kunalgupta250119@gmail.com",
+          "devto": "https://dev.to/kunalgupta25"
+        },
+        "hideBorder": true
       },
       "locked": false,
       "visible": true,
-      "zIndex": 7
+      "zIndex": 10
+    },
+    {
+      "instanceId": "widget_f85dab37-0053-4e01-bc8d-03eec7f21104",
+      "widgetId": "stats",
+      "name": "Stats Widget",
+      "position": {
+        "x": 0,
+        "y": 456
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 11
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#0d1117",
-    "borderColor": "#30363d",
     "textColor": "#e6edf3",
-    "accentColor": "#ffa657",
     "fontFamily": "'JetBrains Mono', monospace",
+    "accentColor": "#ffa657",
+    "borderColor": "#30363d",
     "borderRadius": 0,
-    "transparentBackground": false,
-    "templateStyle": "ascii_native"
+    "templateStyle": "ascii_native",
+    "backgroundColor": "#0d1117",
+    "transparentBackground": false
   },
   "templateId": "kunalgupta25",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1794568348155_kdk1w",
-    "updatedAt": "2026-11-13T11:12:32.570Z"
+    "revision": "rev_1794570133698_1ao9a",
+    "updatedAt": "2026-11-13T11:42:19.364Z"
   }
 }
