@@ -1,0 +1,19 @@
+{
+  "id": "kunalgupta25",
+  "templateId": "kunalgupta25",
+  "name": "KunalGupta25's GitAscii Template",
+  "widgets": [
+    {"instanceId":"widget_1794502409458_0","widgetId":"asciiprofile-portrait","position":{"x":0,"y":100},"size":{"width":360,"height":336},"config":{"accentColor":"#ffa657","cols":150,"rows":75,"hideBorder":true,"hideDecorations":true,"showTitle":false},"locked":false,"visible":true,"zIndex":1},
+    {"instanceId":"widget_1794502409458_1","widgetId":"asciiprofile-info","position":{"x":350,"y":100},"size":{"width":440,"height":336},"config":{"accentColor":"#ffa657"},"locked":false,"visible":true,"zIndex":2},
+    {"instanceId":"widget_c6672481-84d1-49ba-bab0-d94a2c80f8d8","widgetId":"header","position":{"x":0,"y":0},"size":{"width":800,"height":90},"config":{"hideBorder":true,"hideDecorations":true,"showTitle":false},"locked":false,"visible":true,"zIndex":4},
+    {"instanceId":"widget_996a7b63-65f2-479f-866b-277eecce1106","widgetId":"footer","position":{"x":0,"y":1352},"size":{"width":800,"height":50},"config":{},"locked":false,"visible":true,"zIndex":6},
+    {"instanceId":"widget_1925d5b0-6bfc-4797-8458-99d962ce0d14","widgetId":"surveillance-telemetry","position":{"x":10,"y":884},"size":{"width":780,"height":420},"config":{"accentColor":"#ffa657","customTitle":"Terminal Telemetry"},"locked":false,"visible":true,"zIndex":8},
+    {"instanceId":"widget_b7aa3279-7854-4d00-8524-e63c3d0f403d","widgetId":"social-media","position":{"x":0,"y":452},"size":{"width":800,"height":120},"config":{"selectedSocials":["github","linkedin","devto","email","website"],"hideBorder":false,"hideDecorations":true},"locked":false,"visible":true,"zIndex":7}
+  ],
+  "globalStyles":{"backgroundColor":"#0d1117","borderColor":"#30363d","textColor":"#e6edf3","accentColor":"#ffa657","fontFamily":"'JetBrains Mono', monospace","borderRadius":0,"transparentBackground":false,"templateStyle":"ascii_native"},
+  "widgetCategory":"community",
+  "author":"KunalGupta25",
+  "authorUrl":"https://github.com/KunalGupta25",
+  "category":"community",
+  "categoryUrl":"https://github.com/KunalGupta25"
+}
