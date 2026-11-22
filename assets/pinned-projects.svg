@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="950" height="280" viewBox="0 0 950 280" role="img" aria-labelledby="title desc">
+  <title id="title">Pinned GitHub projects</title>
+  <desc id="desc">Three pinned repositories from KunalGupta25, shown as linked cards.</desc>
+  <defs>
+    <style>
+      .background { fill: #0d1117; }
+      .card { fill: #1f1f1f; }
+      .accent { fill: #ffa657; }
+      .muted { fill: #858585; }
+      .sans { font-family: Arial, Helvetica, sans-serif; }
+      .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
+    </style>
+  </defs>
+  <rect class="background" width="950" height="280"/>
+
+  <a href="https://github.com/KunalGupta25/KunalGupta25" aria-label="KunalGupta25 repository">
+    <rect class="card" x="34" y="36" width="438" height="110" rx="5"/>
+    <rect class="accent" x="34" y="36" width="6" height="110" rx="3"/>
+    <text class="mono accent" x="52" y="64" font-size="15">KunalGupta25</text>
+    <text class="sans muted" x="52" y="89" font-size="14">Config files for my GitHub profile.</text>
+    <text class="sans muted" x="435" y="64" text-anchor="end" font-size="13">★ 1</text>
+  </a>
+
+  <a href="https://github.com/KunalGupta25/plexi-materials" aria-label="plexi-materials repository">
+    <rect class="card" x="488" y="36" width="428" height="110" rx="5"/>
+    <rect class="accent" x="488" y="36" width="6" height="110" rx="3"/>
+    <text class="mono accent" x="506" y="64" font-size="15">plexi-materials</text>
+    <text class="sans muted" x="506" y="89" font-size="14">No description.</text>
+    <text class="sans muted" x="879" y="64" text-anchor="end" font-size="13">★ 1</text>
+    <text class="sans accent" x="506" y="130" font-size="13">JavaScript</text>
+  </a>
+
+  <a href="https://github.com/KunalGupta25/alingo-app-backend" aria-label="alingo-app-backend repository">
+    <rect class="card" x="34" y="162" width="438" height="110" rx="5"/>
+    <rect class="accent" x="34" y="162" width="6" height="110" rx="3"/>
+    <text class="mono accent" x="52" y="190" font-size="15">alingo-app-backend</text>
+    <text class="sans muted" x="52" y="215" font-size="14">No description.</text>
+    <text class="sans muted" x="435" y="190" text-anchor="end" font-size="13">★ 1</text>
+    <text class="sans accent" x="52" y="256" font-size="13">Python</text>
+  </a>
+</svg>
