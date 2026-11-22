@@ -1,5 +1,5 @@
 
-<svg width="800" height="1831" viewBox="0 0 800 1831" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="800" height="1721" viewBox="0 0 800 1721" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&amp;family=Teko:wght@500;600;700&amp;family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
 
@@ -29,7 +29,7 @@
     }
   </style>
 
-  <rect class="" width="800" height="1831" fill="#ffffff" rx="0" />
+  <rect class="" width="800" height="1721" fill="#ffffff" rx="0" />
 
   
     <g transform="translate(0, 100)" id="widget-widget_1794502409458_0">
@@ -327,7 +327,7 @@
     </g>
   
 
-    <g transform="translate(35, 886)" id="widget-widget_abd356fb-a466-4c3a-82cb-0cff83c4b8fb">
+    <g transform="translate(31, 712)" id="widget-widget_abd356fb-a466-4c3a-82cb-0cff83c4b8fb">
 
       
         <style>
@@ -398,7 +398,7 @@
     </g>
   
 
-    <g transform="translate(39, 1243)" id="widget-widget_1925d5b0-6bfc-4797-8458-99d962ce0d14">
+    <g transform="translate(35, 1159)" id="widget-widget_1925d5b0-6bfc-4797-8458-99d962ce0d14">
 
       
         <style>
@@ -534,7 +534,7 @@
     </g>
   
 
-    <g transform="translate(31, 994)" id="widget-widget_6a16ad70-2b1b-4ccd-8ebe-5f420e0e113a">
+    <g transform="translate(27, 820)" id="widget-widget_6a16ad70-2b1b-4ccd-8ebe-5f420e0e113a">
 
       
         <style>
@@ -605,7 +605,7 @@
     </g>
   
 
-    <g transform="translate(29, 1109)" id="widget-widget_51b11a1c-5a69-4318-933a-b01657d6f2b1">
+    <g transform="translate(25, 935)" id="widget-widget_51b11a1c-5a69-4318-933a-b01657d6f2b1">
 
       
         <style>
@@ -676,93 +676,39 @@
     </g>
   
 
-    <g transform="translate(29, 619)" id="widget-widget_97f15af3-998b-4989-9b13-07a06feed078">
+    <g transform="translate(271, 632)" id="widget-widget_9c511e3c-1e9d-4c11-a1ef-643aa2136ce2">
 
       
       
-      <rect class="" x="0" y="0" width="742" height="248" fill="#0d1117" stroke="#30363d" stroke-width="1" rx="0" />
       
       
-      <text x="24" y="32" font-family="'Inter Tight', sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ FEATURED REPOSITORIES ]</text>
       
-        <g transform="translate(24, 50)">
-          <rect x="0" y="0" width="341" height="80" fill="#1e1e1e" rx="4" />
-          <rect x="0" y="0" width="4" height="80" fill="#ffa657" rx="2" />
-          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#ffa657">NoteRootAI-KMS</text>
-          <text x="333" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 0</text>
-          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">No description.</text>
-          <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#ffa657">JavaScript</text>
-          
-        </g>
-      
-        <g transform="translate(377, 50)">
-          <rect x="0" y="0" width="341" height="80" fill="#1e1e1e" rx="4" />
-          <rect x="0" y="0" width="4" height="80" fill="#ffa657" rx="2" />
-          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#ffa657">MargHire</text>
-          <text x="333" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 0</text>
-          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">No description.</text>
-          <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#ffa657">HTML</text>
-          
-        </g>
-      
-        <g transform="translate(24, 142)">
-          <rect x="0" y="0" width="341" height="80" fill="#1e1e1e" rx="4" />
-          <rect x="0" y="0" width="4" height="80" fill="#ffa657" rx="2" />
-          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#ffa657">plexi-Streamlit</text>
-          <text x="333" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 1</text>
-          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">A Study webapp with specially tuned AI a…</text>
-          <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#ffa657">Python</text>
-          
-        </g>
-      
-        <g transform="translate(377, 142)">
-          <rect x="0" y="0" width="341" height="80" fill="#1e1e1e" rx="4" />
-          <rect x="0" y="0" width="4" height="80" fill="#ffa657" rx="2" />
-          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#ffa657">dsh-login-gateway</text>
-          <text x="333" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 0</text>
-          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">ogin wall and public gateway plugin for …</text>
-          <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#ffa657">JavaScript</text>
-          
-        </g>
-      
-    
+    <svg x="16" y="16" width="224" height="32" viewBox="0 0 611.9999999999999 72" preserveAspectRatio="xMidYMid meet">
+      <text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80" y="12.239999999999998" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#ffa657" xml:space="preserve">████████ ████████  ▄████▄  ██    ██       ▄█████  ████████  ▄████▄   ▄████▄  ██    ██</text>
+<text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80" y="26.639999999999997" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#ffa657" xml:space="preserve">   ██    ██       ██    ▀▀ ██    ██      ██          ██    ██    ██ ██    ▀▀ ██  ▄█▀ </text>
+<text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80" y="41.04" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#ffa657" xml:space="preserve">   ██    ██████   ██       ████████       ▀████▄     ██    ████████ ██       █████▄  </text>
+<text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80" y="55.44" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#ffa657" xml:space="preserve">   ██    ██       ██    ▄▄ ██    ██            ██    ██    ██    ██ ██    ▄▄ ██  ▀██▄</text>
+<text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80" y="69.83999999999999" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#ffa657" xml:space="preserve">   ██    ████████  ▀████▀  ██    ██      ██████▀     ██    ██    ██  ▀████▀  ██    ██</text>
+    </svg>
+  
   
     </g>
   
 
-    <g transform="translate(39, 1695)" id="widget-widget_e344ed85-aeef-4c8f-a914-a2ed43b2c73a">
+    <g transform="translate(207, 1069)" id="widget-widget_14763c93-2aae-4083-b674-ab9395382a90_0">
 
       
       
-      <rect class="" x="0" y="0" width="736" height="120" fill="#0d1117" stroke="#30363d" stroke-width="0" rx="0" />
       
       
-    <text x="24" y="32" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ SOCIAL MEDIA ]</text>
-    
-        <a href="https://github.com/KunalGupta25" target="_blank" rel="noopener noreferrer" cursor="pointer">
-          <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5NS41IiBoZWlnaHQ9IjI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkdJVEhVQiI+PHRpdGxlPkdJVEhVQjwvdGl0bGU+PGcgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj48cmVjdCB3aWR0aD0iOTUuNSIgaGVpZ2h0PSIyOCIgZmlsbD0iIzE4MTcxNyIvPjwvZz48ZyBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iVmVyZGFuYSxHZW5ldmEsRGVqYVZ1IFNhbnMsc2Fucy1zZXJpZiIgdGV4dC1yZW5kZXJpbmc9Imdlb21ldHJpY1ByZWNpc2lvbiIgZm9udC1zaXplPSIxMDAiPjxpbWFnZSB4PSI5IiB5PSI3IiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIGhyZWY9ImRhdGE6aW1hZ2Uvc3ZnK3htbDtiYXNlNjQsUEhOMlp5Qm1hV3hzUFNKM2FHbDBaU0lnY205c1pUMGlhVzFuSWlCMmFXVjNRbTk0UFNJd0lEQWdNalFnTWpRaUlIaHRiRzV6UFNKb2RIUndPaTh2ZDNkM0xuY3pMbTl5Wnk4eU1EQXdMM04yWnlJK1BIUnBkR3hsUGtkcGRFaDFZand2ZEdsMGJHVStQSEJoZEdnZ1pEMGlUVEV5SUM0eU9UZGpMVFl1TmpNZ01DMHhNaUExTGpNM015MHhNaUF4TWlBd0lEVXVNekF6SURNdU5ETTRJRGt1T0NBNExqSXdOU0F4TVM0ek9EVXVOaTR4TVRNdU9ESXRMakkxT0M0NE1pMHVOVGMzSURBdExqSTROUzB1TURFdE1TNHdOQzB1TURFMUxUSXVNRFF0TXk0ek16Z3VOekkwTFRRdU1EUXlMVEV1TmpFdE5DNHdOREl0TVM0Mk1VTTBMalF5TWlBeE9DNHdOeUF6TGpZek15QXhOeTQzSURNdU5qTXpJREUzTGpkakxURXVNRGczTFM0M05EUXVNRGcwTFM0M01qa3VNRGcwTFM0M01qa2dNUzR5TURVdU1EZzBJREV1T0RNNElERXVNak0ySURFdU9ETTRJREV1TWpNMklERXVNRGNnTVM0NE16VWdNaTQ0TURrZ01TNHpNRFVnTXk0ME9UVXVPVGs0TGpFd09DMHVOemMyTGpReE55MHhMak13TlM0M05pMHhMall3TlMweUxqWTJOUzB1TXkwMUxqUTJOaTB4TGpNek1pMDFMalEyTmkwMUxqa3pJREF0TVM0ek1TNDBOalV0TWk0ek9DQXhMakl6TlMwekxqSXlMUzR4TXpVdExqTXdNeTB1TlRRdE1TNDFNak11TVRBMUxUTXVNVGMySURBZ01DQXhMakF3TlMwdU16SXlJRE11TXlBeExqSXpMamsyTFM0eU5qY2dNUzQ1T0MwdU16azVJRE10TGpRd05TQXhMakF5TGpBd05pQXlMakEwTGpFek9DQXpJQzQwTURVZ01pNHlPQzB4TGpVMU1pQXpMakk0TlMweExqSXpJRE11TWpnMUxURXVNak11TmpRMUlERXVOalV6TGpJMElESXVPRGN6TGpFeUlETXVNVGMyTGpjMk5TNDROQ0F4TGpJeklERXVPVEVnTVM0eU15QXpMakl5SURBZ05DNDJNUzB5TGpnd05TQTFMall5TlMwMUxqUTNOU0ExTGpreUxqUXlMak0yTGpneElERXVNRGsyTGpneElESXVNaklnTUNBeExqWXdOaTB1TURFMUlESXVPRGsyTFM0d01UVWdNeTR5T0RZZ01DQXVNekUxTGpJeExqWTVMamd5TlM0MU4wTXlNQzQxTmpVZ01qSXVNRGt5SURJMElERTNMalU1TWlBeU5DQXhNaTR5T1Rkak1DMDJMall5TnkwMUxqTTNNeTB4TWkweE1pMHhNaUl2UGp3dmMzWm5QZz09Ii8+PHRleHQgdHJhbnNmb3JtPSJzY2FsZSguMSkiIHg9IjU3Ny41IiB5PSIxNzUiIHRleHRMZW5ndGg9IjUxNSIgZm9udC13ZWlnaHQ9ImJvbGQiPkdJVEhVQjwvdGV4dD48L2c+PC9zdmc+" x="24" y="44" width="100" height="28" preserveAspectRatio="xMinYMid meet" />
-        </a>
       
-
-        <a href="https://www.linkedin.com/in/kunalgupta25/" target="_blank" rel="noopener noreferrer" cursor="pointer">
-          <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MSIgaGVpZ2h0PSIyOCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJMSU5LRURJTiI+PHRpdGxlPkxJTktFRElOPC90aXRsZT48ZyBzaGFwZS1yZW5kZXJpbmc9ImNyaXNwRWRnZXMiPjxyZWN0IHdpZHRoPSI5MSIgaGVpZ2h0PSIyOCIgZmlsbD0iIzBhNjZjMiIvPjwvZz48ZyBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iVmVyZGFuYSxHZW5ldmEsRGVqYVZ1IFNhbnMsc2Fucy1zZXJpZiIgdGV4dC1yZW5kZXJpbmc9Imdlb21ldHJpY1ByZWNpc2lvbiIgZm9udC1zaXplPSIxMDAiPjx0ZXh0IHRyYW5zZm9ybT0ic2NhbGUoLjEpIiB4PSI0NTUiIHk9IjE3NSIgdGV4dExlbmd0aD0iNjcwIiBmb250LXdlaWdodD0iYm9sZCI+TElOS0VESU48L3RleHQ+PC9nPjwvc3ZnPg==" x="134" y="44" width="115" height="28" preserveAspectRatio="xMinYMid meet" />
-        </a>
-      
-
-        <a href="https://dev.to/kunalgupta25" target="_blank" rel="noopener noreferrer" cursor="pointer">
-          <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3Mi41IiBoZWlnaHQ9IjI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkRFVi5UTyI+PHRpdGxlPkRFVi5UTzwvdGl0bGU+PGcgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj48cmVjdCB3aWR0aD0iNzIuNSIgaGVpZ2h0PSIyOCIgZmlsbD0iIzBhMGEwYSIvPjwvZz48ZyBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iVmVyZGFuYSxHZW5ldmEsRGVqYVZ1IFNhbnMsc2Fucy1zZXJpZiIgdGV4dC1yZW5kZXJpbmc9Imdlb21ldHJpY1ByZWNpc2lvbiIgZm9udC1zaXplPSIxMDAiPjx0ZXh0IHRyYW5zZm9ybT0ic2NhbGUoLjEpIiB4PSIzNjIuNSIgeT0iMTc1IiB0ZXh0TGVuZ3RoPSI0ODUiIGZvbnQtd2VpZ2h0PSJib2xkIj5ERVYuVE88L3RleHQ+PC9nPjwvc3ZnPg==" x="259" y="44" width="100" height="28" preserveAspectRatio="xMinYMid meet" />
-        </a>
-      
-
-        <a href="mailto:kunalgupta250119@gmail.com" target="_blank" rel="noopener noreferrer" cursor="pointer">
-          <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4NS4yNSIgaGVpZ2h0PSIyOCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJFTUFJTCI+PHRpdGxlPkVNQUlMPC90aXRsZT48ZyBzaGFwZS1yZW5kZXJpbmc9ImNyaXNwRWRnZXMiPjxyZWN0IHdpZHRoPSI4NS4yNSIgaGVpZ2h0PSIyOCIgZmlsbD0iI2VhNDMzNSIvPjwvZz48ZyBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iVmVyZGFuYSxHZW5ldmEsRGVqYVZ1IFNhbnMsc2Fucy1zZXJpZiIgdGV4dC1yZW5kZXJpbmc9Imdlb21ldHJpY1ByZWNpc2lvbiIgZm9udC1zaXplPSIxMDAiPjxpbWFnZSB4PSI5IiB5PSI3IiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIGhyZWY9ImRhdGE6aW1hZ2Uvc3ZnK3htbDtiYXNlNjQsUEhOMlp5Qm1hV3hzUFNKM2FHbDBaU0lnY205c1pUMGlhVzFuSWlCMmFXVjNRbTk0UFNJd0lEQWdNalFnTWpRaUlIaHRiRzV6UFNKb2RIUndPaTh2ZDNkM0xuY3pMbTl5Wnk4eU1EQXdMM04yWnlJK1BIUnBkR3hsUGtkdFlXbHNQQzkwYVhSc1pUNDhjR0YwYUNCa1BTSk5NalFnTlM0ME5UZDJNVE11T1RBNVl6QWdMamt3TkMwdU56TXlJREV1TmpNMkxURXVOak0ySURFdU5qTTJhQzB6TGpneE9WWXhNUzQzTTB3eE1pQXhOaTQyTkd3dE5pNDFORFV0TkM0NU1YWTVMakkzTTBneExqWXpOa0V4TGpZek5pQXhMall6TmlBd0lEQWdNU0F3SURFNUxqTTJObFkxTGpRMU4yTXdMVEl1TURJeklESXVNekE1TFRNdU1UYzRJRE11T1RJM0xURXVPVFkwVERVdU5EVTFJRFF1TmpRZ01USWdPUzQxTkRoc05pNDFORFV0TkM0NU1TQXhMalV5T0MweExqRTBOVU15TVM0Mk9TQXlMakk0SURJMElETXVORE0wSURJMElEVXVORFUzZWlJdlBqd3ZjM1puUGc9PSIvPjx0ZXh0IHRyYW5zZm9ybT0ic2NhbGUoLjEpIiB4PSI1MjYuMjUiIHk9IjE3NSIgdGV4dExlbmd0aD0iNDEyLjUiIGZvbnQtd2VpZ2h0PSJib2xkIj5FTUFJTDwvdGV4dD48L2c+PC9zdmc+" x="369" y="44" width="92" height="28" preserveAspectRatio="xMinYMid meet" />
-        </a>
-      
-
-        <a href="https://ko-fo.com/lazy_human" target="_blank" rel="noopener noreferrer" cursor="pointer">
-          <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAuMjUiIGhlaWdodD0iMjgiIHJvbGU9ImltZyIgYXJpYS1sYWJlbD0iUE9SVEZPTElPIj48dGl0bGU+UE9SVEZPTElPPC90aXRsZT48ZyBzaGFwZS1yZW5kZXJpbmc9ImNyaXNwRWRnZXMiPjxyZWN0IHdpZHRoPSIxMjAuMjUiIGhlaWdodD0iMjgiIGZpbGw9IiMyNTYzZWIiLz48L2c+PGcgZmlsbD0iI2ZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IlZlcmRhbmEsR2VuZXZhLERlamFWdSBTYW5zLHNhbnMtc2VyaWYiIHRleHQtcmVuZGVyaW5nPSJnZW9tZXRyaWNQcmVjaXNpb24iIGZvbnQtc2l6ZT0iMTAwIj48aW1hZ2UgeD0iOSIgeT0iNyIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiBocmVmPSJkYXRhOmltYWdlL3N2Zyt4bWw7YmFzZTY0LFBITjJaeUJtYVd4c1BTSjNhR2wwWlNJZ2NtOXNaVDBpYVcxbklpQjJhV1YzUW05NFBTSXdJREFnTWpRZ01qUWlJSGh0Ykc1elBTSm9kSFJ3T2k4dmQzZDNMbmN6TG05eVp5OHlNREF3TDNOMlp5SStQSFJwZEd4bFBrZHZiMmRzWlNCRGFISnZiV1U4TDNScGRHeGxQanh3WVhSb0lHUTlJazB4TWlBd1F6Z3VNakVnTUNBMExqZ3pNU0F4TGpjMU55QXlMall6TWlBMExqVXdNV3d6TGprMU15QTJMamcwT0VFMUxqUTFOQ0ExTGpRMU5DQXdJREFnTVNBeE1pQTJMalUwTldneE1DNDJPVEZCTVRJZ01USWdNQ0F3SURBZ01USWdNSHBOTVM0NU16RWdOUzQwTjBFeE1TNDVORE1nTVRFdU9UUXpJREFnTUNBd0lEQWdNVEpqTUNBMkxqQXhNaUEwTGpReUlERXdMams1TVNBeE1DNHhPRGtnTVRFdU9EWTBiRE11T1RVekxUWXVPRFEzWVRVdU5EVWdOUzQwTlNBd0lEQWdNUzAyTGpnMk5TMHlMakk1ZW0weE15NHpORElnTWk0eE5qWmhOUzQwTkRZZ05TNDBORFlnTUNBd0lERWdNUzQwTlNBM0xqQTViQzR3TURJdU1EQXhhQzB1TURBeWJDMDFMak0wTkNBNUxqSTFOMk11TWpBMkxqQXhMalF4TXk0d01UWXVOakl4TGpBeE5pQTJMall5TnlBd0lERXlMVFV1TXpjeklERXlMVEV5SURBdE1TNDFOQzB1TWprdE15NHdNVEV0TGpneE9DMDBMak0yTkhwTk1USWdNVFl1TXpZMFlUUXVNelkwSURRdU16WTBJREFnTVNBeElEQXRPQzQzTWpnZ05DNHpOalFnTkM0ek5qUWdNQ0F3SURFZ01DQTRMamN5T0ZvaUx6NDhMM04yWno0PSIvPjx0ZXh0IHRyYW5zZm9ybT0ic2NhbGUoLjEpIiB4PSI3MDEuMjUiIHk9IjE3NSIgdGV4dExlbmd0aD0iNzYyLjUiIGZvbnQtd2VpZ2h0PSJib2xkIj5QT1JURk9MSU88L3RleHQ+PC9nPjwvc3ZnPg==" x="471" y="44" width="122" height="28" preserveAspectRatio="xMinYMid meet" />
-        </a>
-      
+    <svg x="16" y="16" width="392" height="62" viewBox="0 0 1130.3999999999999 72" preserveAspectRatio="xMidYMid meet">
+      <text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80 612.00 619.20 626.40 633.60 640.80 648.00 655.20 662.40 669.60 676.80 684.00 691.20 698.40 705.60 712.80 720.00 727.20 734.40 741.60 748.80 756.00 763.20 770.40 777.60 784.80 792.00 799.20 806.40 813.60 820.80 828.00 835.20 842.40 849.60 856.80 864.00 871.20 878.40 885.60 892.80 900.00 907.20 914.40 921.60 928.80 936.00 943.20 950.40 957.60 964.80 972.00 979.20 986.40 993.60 1000.80 1008.00 1015.20 1022.40 1029.60 1036.80 1044.00 1051.20 1058.40 1065.60 1072.80 1080.00 1087.20 1094.40 1101.60 1108.80 1116.00 1123.20" y="12.239999999999998" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#ffa657" xml:space="preserve"> ▄████▄   ▄████▄  ██    ██ ████████ ███████▄ ████████ ███████▄ ██    ██ ████████ ████████  ▄████▄  ██    ██       ▄████▄  ███████▄  ▄████▄  ███████▄ ██    ██</text>
+<text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80 612.00 619.20 626.40 633.60 640.80 648.00 655.20 662.40 669.60 676.80 684.00 691.20 698.40 705.60 712.80 720.00 727.20 734.40 741.60 748.80 756.00 763.20 770.40 777.60 784.80 792.00 799.20 806.40 813.60 820.80 828.00 835.20 842.40 849.60 856.80 864.00 871.20 878.40 885.60 892.80 900.00 907.20 914.40 921.60 928.80 936.00 943.20 950.40 957.60 964.80 972.00 979.20 986.40 993.60 1000.80 1008.00 1015.20 1022.40 1029.60 1036.80 1044.00 1051.20 1058.40 1065.60 1072.80 1080.00 1087.20 1094.40 1101.60 1108.80 1116.00 1123.20" y="26.639999999999997" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#ffa657" xml:space="preserve">██    ▀▀ ██    ██ ███   ██    ██    ██    ██    ██    ██    ██ ██    ██    ██       ██    ██    ██ ███   ██      ██    ▀▀ ██    ██ ██    ██ ██    ██ ██    ██</text>
+<text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80 612.00 619.20 626.40 633.60 640.80 648.00 655.20 662.40 669.60 676.80 684.00 691.20 698.40 705.60 712.80 720.00 727.20 734.40 741.60 748.80 756.00 763.20 770.40 777.60 784.80 792.00 799.20 806.40 813.60 820.80 828.00 835.20 842.40 849.60 856.80 864.00 871.20 878.40 885.60 892.80 900.00 907.20 914.40 921.60 928.80 936.00 943.20 950.40 957.60 964.80 972.00 979.20 986.40 993.60 1000.80 1008.00 1015.20 1022.40 1029.60 1036.80 1044.00 1051.20 1058.40 1065.60 1072.80 1080.00 1087.20 1094.40 1101.60 1108.80 1116.00 1123.20" y="41.04" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#ffa657" xml:space="preserve">██       ██    ██ ██▀█  ██    ██    ███████▀    ██    ███████▀ ██    ██    ██       ██    ██    ██ ██▀█  ██      ██  ████ ███████▀ ████████ ███████▀ ████████</text>
+<text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80 612.00 619.20 626.40 633.60 640.80 648.00 655.20 662.40 669.60 676.80 684.00 691.20 698.40 705.60 712.80 720.00 727.20 734.40 741.60 748.80 756.00 763.20 770.40 777.60 784.80 792.00 799.20 806.40 813.60 820.80 828.00 835.20 842.40 849.60 856.80 864.00 871.20 878.40 885.60 892.80 900.00 907.20 914.40 921.60 928.80 936.00 943.20 950.40 957.60 964.80 972.00 979.20 986.40 993.60 1000.80 1008.00 1015.20 1022.40 1029.60 1036.80 1044.00 1051.20 1058.40 1065.60 1072.80 1080.00 1087.20 1094.40 1101.60 1108.80 1116.00 1123.20" y="55.44" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#ffa657" xml:space="preserve">██    ▄▄ ██    ██ ██ ▀█ ██    ██    ██  ▀██▄    ██    ██    ██ ██    ██    ██       ██    ██    ██ ██ ▀█ ██      ██    ██ ██  ▀██▄ ██    ██ ██       ██    ██</text>
+<text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80 612.00 619.20 626.40 633.60 640.80 648.00 655.20 662.40 669.60 676.80 684.00 691.20 698.40 705.60 712.80 720.00 727.20 734.40 741.60 748.80 756.00 763.20 770.40 777.60 784.80 792.00 799.20 806.40 813.60 820.80 828.00 835.20 842.40 849.60 856.80 864.00 871.20 878.40 885.60 892.80 900.00 907.20 914.40 921.60 928.80 936.00 943.20 950.40 957.60 964.80 972.00 979.20 986.40 993.60 1000.80 1008.00 1015.20 1022.40 1029.60 1036.80 1044.00 1051.20 1058.40 1065.60 1072.80 1080.00 1087.20 1094.40 1101.60 1108.80 1116.00 1123.20" y="69.83999999999999" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#ffa657" xml:space="preserve"> ▀████▀   ▀████▀  ██   ███    ██    ██    ██ ████████ ███████▀  ▀████▀     ██    ████████  ▀████▀  ██   ███       ▀████▀  ██    ██ ██    ██ ██       ██    ██</text>
+    </svg>
   
   
     </g>
@@ -801,6 +747,25 @@
           <text x="0" y="28" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="300" fill="#ffa657">3</text>
           <text x="0" y="44" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500" fill="#7a7a7a" letter-spacing="1.5">GISTS</text>
         </g>
+  
+  
+    </g>
+  
+
+    <g transform="translate(226.5, 1611)" id="widget-widget_2a2ec1ba-b331-4486-a323-d317b656edd4_0">
+
+      
+      
+      
+      
+      
+    <svg x="16" y="16" width="296" height="62" viewBox="0 0 871.1999999999999 72" preserveAspectRatio="xMidYMid meet">
+      <text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80 612.00 619.20 626.40 633.60 640.80 648.00 655.20 662.40 669.60 676.80 684.00 691.20 698.40 705.60 712.80 720.00 727.20 734.40 741.60 748.80 756.00 763.20 770.40 777.60 784.80 792.00 799.20 806.40 813.60 820.80 828.00 835.20 842.40 849.60 856.80 864.00" y="12.239999999999998" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#ffa657" xml:space="preserve">████████ ████████  ▄████▄  ████████ ██    ██ ███████▄ ████████ ██████▄        ▄████▄  ███████▄  ▄████▄  ███████▄ ██    ██</text>
+<text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80 612.00 619.20 626.40 633.60 640.80 648.00 655.20 662.40 669.60 676.80 684.00 691.20 698.40 705.60 712.80 720.00 727.20 734.40 741.60 748.80 756.00 763.20 770.40 777.60 784.80 792.00 799.20 806.40 813.60 820.80 828.00 835.20 842.40 849.60 856.80 864.00" y="26.639999999999997" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#ffa657" xml:space="preserve">██       ██       ██    ██    ██    ██    ██ ██    ██ ██       ██    ██      ██    ▀▀ ██    ██ ██    ██ ██    ██ ██    ██</text>
+<text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80 612.00 619.20 626.40 633.60 640.80 648.00 655.20 662.40 669.60 676.80 684.00 691.20 698.40 705.60 712.80 720.00 727.20 734.40 741.60 748.80 756.00 763.20 770.40 777.60 784.80 792.00 799.20 806.40 813.60 820.80 828.00 835.20 842.40 849.60 856.80 864.00" y="41.04" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#ffa657" xml:space="preserve">██████   ██████   ████████    ██    ██    ██ ███████▀ ██████   ██    ██      ██  ████ ███████▀ ████████ ███████▀ ████████</text>
+<text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80 612.00 619.20 626.40 633.60 640.80 648.00 655.20 662.40 669.60 676.80 684.00 691.20 698.40 705.60 712.80 720.00 727.20 734.40 741.60 748.80 756.00 763.20 770.40 777.60 784.80 792.00 799.20 806.40 813.60 820.80 828.00 835.20 842.40 849.60 856.80 864.00" y="55.44" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#ffa657" xml:space="preserve">██       ██       ██    ██    ██    ██    ██ ██  ▀██▄ ██       ██    ██      ██    ██ ██  ▀██▄ ██    ██ ██       ██    ██</text>
+<text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80 612.00 619.20 626.40 633.60 640.80 648.00 655.20 662.40 669.60 676.80 684.00 691.20 698.40 705.60 712.80 720.00 727.20 734.40 741.60 748.80 756.00 763.20 770.40 777.60 784.80 792.00 799.20 806.40 813.60 820.80 828.00 835.20 842.40 849.60 856.80 864.00" y="69.83999999999999" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#ffa657" xml:space="preserve">██       ████████ ██    ██    ██     ▀████▀  ██    ██ ████████ ██████▀        ▀████▀  ██    ██ ██    ██ ██       ██    ██</text>
+    </svg>
   
   
     </g>

@@ -11557,8 +11557,8 @@
       "zIndex": 8,
       "visible": true,
       "position": {
-        "x": 39,
-        "y": 1243
+        "x": 35,
+        "y": 1159
       },
       "widgetId": "surveillance-telemetry",
       "instanceId": "widget_1925d5b0-6bfc-4797-8458-99d962ce0d14"
@@ -11568,8 +11568,8 @@
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
-        "x": 35,
-        "y": 886
+        "x": 31,
+        "y": 712
       },
       "size": {
         "width": 736,
@@ -11598,8 +11598,8 @@
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
-        "x": 31,
-        "y": 994
+        "x": 27,
+        "y": 820
       },
       "size": {
         "width": 736,
@@ -11629,8 +11629,8 @@
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
-        "x": 29,
-        "y": 1109
+        "x": 25,
+        "y": 935
       },
       "size": {
         "width": 731,
@@ -11663,68 +11663,6 @@
       "zIndex": 9
     },
     {
-      "instanceId": "widget_97f15af3-998b-4989-9b13-07a06feed078",
-      "widgetId": "repositories",
-      "name": "Repositories Widget",
-      "position": {
-        "x": 29,
-        "y": 619
-      },
-      "size": {
-        "width": 742,
-        "height": 248
-      },
-      "config": {
-        "repoCardHeight": 52,
-        "repoViewMode": "grid",
-        "maxRepos": 4,
-        "repoSortBy": "updated",
-        "customTitle": "Recen",
-        "selectedRepos": [
-          "NoteRootAI-KMS",
-          "MargHire",
-          "plexi-Streamlit",
-          "dsh-login-gateway"
-        ]
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 10
-    },
-    {
-      "instanceId": "widget_e344ed85-aeef-4c8f-a914-a2ed43b2c73a",
-      "widgetId": "social-media",
-      "name": "Social-media Widget",
-      "position": {
-        "x": 39,
-        "y": 1695
-      },
-      "size": {
-        "width": 736,
-        "height": 120
-      },
-      "config": {
-        "selectedSocials": [
-          "github",
-          "linkedin",
-          "devto",
-          "email",
-          "website"
-        ],
-        "socialUrls": {
-          "github": "https://github.com/KunalGupta25",
-          "linkedin": "https://www.linkedin.com/in/kunalgupta25/",
-          "website": "https://ko-fo.com/lazy_human",
-          "email": "mailto:kunalgupta250119@gmail.com",
-          "devto": "https://dev.to/kunalgupta25"
-        },
-        "hideBorder": true
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 10
-    },
-    {
       "instanceId": "widget_f85dab37-0053-4e01-bc8d-03eec7f21104",
       "widgetId": "stats",
       "name": "Stats Widget",
@@ -11737,6 +11675,99 @@
         "height": 120
       },
       "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 11
+    },
+    {
+      "instanceId": "widget_9c511e3c-1e9d-4c11-a1ef-643aa2136ce2",
+      "widgetId": "ascii-text",
+      "name": "Ascii-text Widget",
+      "position": {
+        "x": 271,
+        "y": 632
+      },
+      "size": {
+        "width": 256,
+        "height": 64
+      },
+      "config": {
+        "customText": "Tech Stack",
+        "asciiFont": "block",
+        "charSpacing": 1,
+        "fontSize": 12,
+        "charset": "default",
+        "customCharset": "",
+        "asciiLines": [
+          "████████ ████████  ▄████▄  ██    ██       ▄█████  ████████  ▄████▄   ▄████▄  ██    ██",
+          "   ██    ██       ██    ▀▀ ██    ██      ██          ██    ██    ██ ██    ▀▀ ██  ▄█▀ ",
+          "   ██    ██████   ██       ████████       ▀████▄     ██    ████████ ██       █████▄  ",
+          "   ██    ██       ██    ▄▄ ██    ██            ██    ██    ██    ██ ██    ▄▄ ██  ▀██▄",
+          "   ██    ████████  ▀████▀  ██    ██      ██████▀     ██    ██    ██  ▀████▀  ██    ██"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 9
+    },
+    {
+      "instanceId": "widget_14763c93-2aae-4083-b674-ab9395382a90_0",
+      "widgetId": "ascii-text",
+      "name": "Ascii-text Widget (Cópia)",
+      "position": {
+        "x": 207,
+        "y": 1069
+      },
+      "size": {
+        "width": 424,
+        "height": 94
+      },
+      "config": {
+        "customText": "Contribution Graph",
+        "asciiFont": "block",
+        "charSpacing": 1,
+        "fontSize": 12,
+        "charset": "default",
+        "customCharset": "",
+        "asciiLines": [
+          " ▄████▄   ▄████▄  ██    ██ ████████ ███████▄ ████████ ███████▄ ██    ██ ████████ ████████  ▄████▄  ██    ██       ▄████▄  ███████▄  ▄████▄  ███████▄ ██    ██",
+          "██    ▀▀ ██    ██ ███   ██    ██    ██    ██    ██    ██    ██ ██    ██    ██       ██    ██    ██ ███   ██      ██    ▀▀ ██    ██ ██    ██ ██    ██ ██    ██",
+          "██       ██    ██ ██▀█  ██    ██    ███████▀    ██    ███████▀ ██    ██    ██       ██    ██    ██ ██▀█  ██      ██  ████ ███████▀ ████████ ███████▀ ████████",
+          "██    ▄▄ ██    ██ ██ ▀█ ██    ██    ██  ▀██▄    ██    ██    ██ ██    ██    ██       ██    ██    ██ ██ ▀█ ██      ██    ██ ██  ▀██▄ ██    ██ ██       ██    ██",
+          " ▀████▀   ▀████▀  ██   ███    ██    ██    ██ ████████ ███████▀  ▀████▀     ██    ████████  ▀████▀  ██   ███       ▀████▀  ██    ██ ██    ██ ██       ██    ██"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 10
+    },
+    {
+      "instanceId": "widget_2a2ec1ba-b331-4486-a323-d317b656edd4_0",
+      "widgetId": "ascii-text",
+      "name": "Ascii-text Widget (Cópia) (Cópia)",
+      "position": {
+        "x": 226.5,
+        "y": 1611
+      },
+      "size": {
+        "width": 328,
+        "height": 94
+      },
+      "config": {
+        "customText": "Featured Graph",
+        "asciiFont": "block",
+        "charSpacing": 1,
+        "fontSize": 12,
+        "charset": "default",
+        "customCharset": "",
+        "asciiLines": [
+          "████████ ████████  ▄████▄  ████████ ██    ██ ███████▄ ████████ ██████▄        ▄████▄  ███████▄  ▄████▄  ███████▄ ██    ██",
+          "██       ██       ██    ██    ██    ██    ██ ██    ██ ██       ██    ██      ██    ▀▀ ██    ██ ██    ██ ██    ██ ██    ██",
+          "██████   ██████   ████████    ██    ██    ██ ███████▀ ██████   ██    ██      ██  ████ ███████▀ ████████ ███████▀ ████████",
+          "██       ██       ██    ██    ██    ██    ██ ██  ▀██▄ ██       ██    ██      ██    ██ ██  ▀██▄ ██    ██ ██       ██    ██",
+          "██       ████████ ██    ██    ██     ▀████▀  ██    ██ ████████ ██████▀        ▀████▀  ██    ██ ██    ██ ██       ██    ██"
+        ]
+      },
       "locked": false,
       "visible": true,
       "zIndex": 11
@@ -11755,7 +11786,7 @@
   "templateId": "kunalgupta25",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1794570133698_1ao9a",
-    "updatedAt": "2026-11-13T11:42:19.364Z"
+    "revision": "rev_1795351011872_jwtou",
+    "updatedAt": "2026-11-22T12:36:56.929Z"
   }
 }
