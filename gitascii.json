@@ -11771,6 +11771,36 @@
       "locked": false,
       "visible": true,
       "zIndex": 11
+    },
+    {
+      "instanceId": "widget_5bdf1492-27a1-4269-a2d1-3026800e4aab",
+      "widgetId": "repositories",
+      "name": "Repositories Widget",
+      "position": {
+        "x": 47,
+        "y": 1701
+      },
+      "size": {
+        "width": 696,
+        "height": 248
+      },
+      "config": {
+        "repoCardHeight": 66,
+        "repoViewMode": "grid",
+        "showRepoUpdated": true,
+        "selectedRepos": [
+          "plexi-Streamlit",
+          "NoterootAI",
+          "dsh-graph"
+        ],
+        "showRepoStars": false,
+        "animationType": "none",
+        "animationPreviewKey": 6,
+        "animationEasing": "linear"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 12
     }
   ],
   "globalStyles": {
@@ -11786,7 +11816,7 @@
   "templateId": "kunalgupta25",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795351059052_f0tji",
-    "updatedAt": "2026-11-22T12:37:44.035Z"
+    "revision": "rev_1795352463194_9eh1i",
+    "updatedAt": "2026-11-22T13:01:09.521Z"
   }
 }

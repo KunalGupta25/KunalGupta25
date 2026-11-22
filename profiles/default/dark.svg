@@ -1,5 +1,5 @@
 
-<svg width="800" height="1721" viewBox="0 0 800 1721" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="800" height="1965" viewBox="0 0 800 1965" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&amp;family=Teko:wght@500;600;700&amp;family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
 
@@ -767,6 +767,50 @@
 <text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80 612.00 619.20 626.40 633.60 640.80 648.00 655.20 662.40 669.60 676.80 684.00 691.20 698.40 705.60 712.80 720.00 727.20 734.40 741.60 748.80 756.00 763.20 770.40 777.60 784.80 792.00 799.20 806.40 813.60 820.80 828.00 835.20 842.40 849.60 856.80 864.00" y="69.83999999999999" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#ffa657" xml:space="preserve">██       ████████ ██    ██    ██     ▀████▀  ██    ██ ████████ ██████▀        ▀████▀  ██    ██ ██    ██ ██       ██    ██</text>
     </svg>
   
+  
+    </g>
+  
+
+    <g transform="translate(47, 1701)" id="widget-widget_5bdf1492-27a1-4269-a2d1-3026800e4aab">
+
+      
+      
+      <rect class="" x="0" y="0" width="696" height="248" fill="#0d1117" stroke="#30363d" stroke-width="1" rx="0" />
+      
+      
+      <text x="24" y="32" font-family="'Inter Tight', sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ FEATURED REPOSITORIES ]</text>
+      
+        <g transform="translate(24, 50)">
+          <rect x="0" y="0" width="318" height="80" fill="#1e1e1e" rx="4" />
+          <rect x="0" y="0" width="4" height="80" fill="#ffa657" rx="2" />
+          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#ffa657">plexi-Streamlit</text>
+          <text x="310" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 1</text>
+          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">A Study webapp with specially tuned AI a…</text>
+          <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#ffa657">Python</text>
+          
+        </g>
+      
+        <g transform="translate(354, 50)">
+          <rect x="0" y="0" width="318" height="80" fill="#1e1e1e" rx="4" />
+          <rect x="0" y="0" width="4" height="80" fill="#ffa657" rx="2" />
+          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#ffa657">NoterootAI</text>
+          <text x="310" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 0</text>
+          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">No description.</text>
+          <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#ffa657">TypeScript</text>
+          
+        </g>
+      
+        <g transform="translate(24, 142)">
+          <rect x="0" y="0" width="318" height="80" fill="#1e1e1e" rx="4" />
+          <rect x="0" y="0" width="4" height="80" fill="#ffa657" rx="2" />
+          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#ffa657">dsh-graph</text>
+          <text x="310" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 0</text>
+          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">No description.</text>
+          <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#ffa657">JavaScript</text>
+          
+        </g>
+      
+    
   
     </g>
   
