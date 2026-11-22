@@ -11781,12 +11781,12 @@
     "borderRadius": 0,
     "templateStyle": "ascii_native",
     "backgroundColor": "#0d1117",
-    "transparentBackground": false
+    "transparentBackground": true
   },
   "templateId": "kunalgupta25",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795351011872_jwtou",
-    "updatedAt": "2026-11-22T12:36:56.929Z"
+    "revision": "rev_1795351059052_f0tji",
+    "updatedAt": "2026-11-22T12:37:44.035Z"
   }
 }
